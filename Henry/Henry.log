@@ -1,0 +1,189 @@
+Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  C:\Users\steve\Projects\Babylon\
+	Python World class constructor completed
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  mixamorig9_Hips, index:  0
+		processing begun of bone:  mixamorig9_Spine, index:  1
+		processing begun of bone:  mixamorig9_Spine1, index:  2
+		processing begun of bone:  mixamorig9_Spine2, index:  3
+		processing begun of bone:  mixamorig9_Neck, index:  4
+		processing begun of bone:  mixamorig9_Head, index:  5
+		processing begun of bone:  mixamorig9_HeadTop_End, index:  6
+		processing begun of bone:  mixamorig9_LeftShoulder, index:  7
+		processing begun of bone:  mixamorig9_LeftArm, index:  8
+		processing begun of bone:  mixamorig9_LeftForeArm, index:  9
+		processing begun of bone:  mixamorig9_LeftHand, index:  10
+		processing begun of bone:  mixamorig9_LeftHandThumb1, index:  11
+		processing begun of bone:  mixamorig9_LeftHandThumb2, index:  12
+		processing begun of bone:  mixamorig9_LeftHandThumb3, index:  13
+		processing begun of bone:  mixamorig9_LeftHandThumb4, index:  14
+		processing begun of bone:  mixamorig9_LeftHandIndex1, index:  15
+		processing begun of bone:  mixamorig9_LeftHandIndex2, index:  16
+		processing begun of bone:  mixamorig9_LeftHandIndex3, index:  17
+		processing begun of bone:  mixamorig9_LeftHandIndex4, index:  18
+		processing begun of bone:  mixamorig9_LeftHandMiddle1, index:  19
+		processing begun of bone:  mixamorig9_LeftHandMiddle2, index:  20
+		processing begun of bone:  mixamorig9_LeftHandMiddle3, index:  21
+		processing begun of bone:  mixamorig9_LeftHandMiddle4, index:  22
+		processing begun of bone:  mixamorig9_LeftHandRing1, index:  23
+		processing begun of bone:  mixamorig9_LeftHandRing2, index:  24
+		processing begun of bone:  mixamorig9_LeftHandRing3, index:  25
+		processing begun of bone:  mixamorig9_LeftHandRing4, index:  26
+		processing begun of bone:  mixamorig9_LeftHandPinky1, index:  27
+		processing begun of bone:  mixamorig9_LeftHandPinky2, index:  28
+		processing begun of bone:  mixamorig9_LeftHandPinky3, index:  29
+		processing begun of bone:  mixamorig9_LeftHandPinky4, index:  30
+		processing begun of bone:  mixamorig9_RightShoulder, index:  31
+		processing begun of bone:  mixamorig9_RightArm, index:  32
+		processing begun of bone:  mixamorig9_RightForeArm, index:  33
+		processing begun of bone:  mixamorig9_RightHand, index:  34
+		processing begun of bone:  mixamorig9_RightHandThumb1, index:  35
+		processing begun of bone:  mixamorig9_RightHandThumb2, index:  36
+		processing begun of bone:  mixamorig9_RightHandThumb3, index:  37
+		processing begun of bone:  mixamorig9_RightHandThumb4, index:  38
+		processing begun of bone:  mixamorig9_RightHandIndex1, index:  39
+		processing begun of bone:  mixamorig9_RightHandIndex2, index:  40
+		processing begun of bone:  mixamorig9_RightHandIndex3, index:  41
+		processing begun of bone:  mixamorig9_RightHandIndex4, index:  42
+		processing begun of bone:  mixamorig9_RightHandMiddle1, index:  43
+		processing begun of bone:  mixamorig9_RightHandMiddle2, index:  44
+		processing begun of bone:  mixamorig9_RightHandMiddle3, index:  45
+		processing begun of bone:  mixamorig9_RightHandMiddle4, index:  46
+		processing begun of bone:  mixamorig9_RightHandRing1, index:  47
+		processing begun of bone:  mixamorig9_RightHandRing2, index:  48
+		processing begun of bone:  mixamorig9_RightHandRing3, index:  49
+		processing begun of bone:  mixamorig9_RightHandRing4, index:  50
+		processing begun of bone:  mixamorig9_RightHandPinky1, index:  51
+		processing begun of bone:  mixamorig9_RightHandPinky2, index:  52
+		processing begun of bone:  mixamorig9_RightHandPinky3, index:  53
+		processing begun of bone:  mixamorig9_RightHandPinky4, index:  54
+		processing begun of bone:  mixamorig9_LeftUpLeg, index:  55
+		processing begun of bone:  mixamorig9_LeftLeg, index:  56
+		processing begun of bone:  mixamorig9_LeftFoot, index:  57
+		processing begun of bone:  mixamorig9_LeftToeBase, index:  58
+		processing begun of bone:  mixamorig9_LeftToe_End, index:  59
+		processing begun of bone:  mixamorig9_RightUpLeg, index:  60
+		processing begun of bone:  mixamorig9_RightLeg, index:  61
+		processing begun of bone:  mixamorig9_RightFoot, index:  62
+		processing begun of bone:  mixamorig9_RightToeBase, index:  63
+		processing begun of bone:  mixamorig9_RightToe_End, index:  64
+		processing action ArmatureAction:  in[0 - 789], out[0 - 789]
+	processing begun of mesh:  Ch31_Hair
+		processing begun of Standard material:  Ch31_hair
+			Diffuse texture found "Texture.002"
+				Image texture found, type:  diffuseTexture, mapped using: "Ch31_Hair-lib-UV0"
+				WARNING: Opacity non-std way to indicate opacity, use material alpha to also use Opacity texture
+		num positions      :  10739
+		num normals        :  10739
+		num uvs            :  21478
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  32571
+		Skeleton stats:  
+			Total Influencers:  13009
+			Avg # of influencers per vertex:  1.2114
+			Highest # of influencers observed:  3, num vertices with this:  76
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  42956
+	processing begun of mesh:  Ch31_Shoes
+		processing begun of Standard material:  Ch31_body
+			Diffuse texture found "Texture"
+				Image texture found, type:  diffuseTexture, mapped using: "Ch31_Shoes-lib-UV0"
+		num positions      :  4373
+		num normals        :  4373
+		num uvs            :  8746
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  12756
+		Skeleton stats:  
+			Total Influencers:  10947
+			Avg # of influencers per vertex:  2.5033
+			Highest # of influencers observed:  3, num vertices with this:  2201
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  17492
+	processing begun of mesh:  Ch31_Eyelashes
+		registered as also a user of material:  Ch31_hair
+		num positions      :  550
+		num normals        :  550
+		num uvs            :  1100
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2112
+		Skeleton stats:  
+			Total Influencers:  550
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  550
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  2200
+	processing begun of mesh:  Ch31_Collar
+		registered as also a user of material:  Ch31_body
+		num positions      :  2918
+		num normals        :  2918
+		num uvs            :  5836
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  11097
+		Skeleton stats:  
+			Total Influencers:  8554
+			Avg # of influencers per vertex:  2.9315
+			Highest # of influencers observed:  4, num vertices with this:  283
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  11672
+		WARNING: # of 0 area faces found:  1
+	processing begun of mesh:  Ch31_Sweater
+		registered as also a user of material:  Ch31_body
+		num positions      :  4453
+		num normals        :  4453
+		num uvs            :  8906
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20268
+		Skeleton stats:  
+			Total Influencers:  12656
+			Avg # of influencers per vertex:  2.8421
+			Highest # of influencers observed:  5, num vertices with this:  122
+			exported as 5 influencers
+			num skeletonWeights and skeletonIndices:  35624
+	processing begun of mesh:  Ch31_Pants
+		registered as also a user of material:  Ch31_body
+		num positions      :  3569
+		num normals        :  3569
+		num uvs            :  7138
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  16962
+		Skeleton stats:  
+			Total Influencers:  7900
+			Avg # of influencers per vertex:  2.2135
+			Highest # of influencers observed:  4, num vertices with this:  1
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  14276
+	processing begun of mesh:  Ch31_Body
+		registered as also a user of material:  Ch31_body
+		num positions      :  10820
+		num normals        :  10820
+		num uvs            :  21640
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  55002
+		Skeleton stats:  
+			Total Influencers:  19726
+			Avg # of influencers per vertex:  1.8231
+			Highest # of influencers observed:  7, num vertices with this:  8
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  86560
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 17.4563 secs
